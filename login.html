@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Blog Website</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Blog Website</h1>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="../blog/create.html">Create Post</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="auth-form">
+            <h2>Login</h2>
+            <form id="login-form">
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" required>
+                </div>
+                <button type="submit">Login</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Blog Website</p>
+    </footer>
+
+    <script src="../app.js"></script>
+    <script>
+        // Handle login
+        document.getElementById('login-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            // Simple authentication (for demonstration purposes)
+            if (email === 'user@example.com' && password === 'password') {
+                alert('Login successful!');
+                window.location.href = '../index.html';
+            } else {
+                alert('Invalid email or password.');
+            }
+        });
+    </script>
+</body>
+</html>
