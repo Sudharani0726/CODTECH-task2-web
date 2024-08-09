@@ -29,9 +29,9 @@ Rich text editor for creating posts.
 
 Add, view, and delete comments on blog posts.
 Nested comments for interactive discussions.
-Responsive Design:
+- **Responsive Design:**
 
-- **Mobile-friendly layout.**
+Mobile-friendly layout.
 Consistent user experience across devices.
 
 - **User Profiles:**
@@ -56,8 +56,10 @@ Analyze site activity and statistics.
 
 ## Technologies Used
 **HTML:** Structure and layout of the website pages.
+
 **CSS:** Styling and responsive design for an attractive and adaptable user interface.
 Libraries like Bootstrap or Tailwind CSS can be used for easier responsive design.
+
 **JavaScript:** Handling client-side interactivity and dynamic content.
 
 ## output:
