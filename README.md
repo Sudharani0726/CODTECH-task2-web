@@ -15,35 +15,41 @@
 
 ## Features:
 
-User Authentication:
+**User Authentication:**
 
 Sign up, log in, and log out functionalities for users.
 Secure password storage and authentication.
--**Blog Management:**
+
+- **Blog Management:**
 
 Create, edit, delete, and view blog posts.
 Rich text editor for creating posts.
--**Comment Section:**
+
+- **Comment Section:**
 
 Add, view, and delete comments on blog posts.
 Nested comments for interactive discussions.
 Responsive Design:
 
--**Mobile-friendly layout.**
+- **Mobile-friendly layout.**
 Consistent user experience across devices.
--**User Profiles:**
+
+- **User Profiles:**
 
 View and edit personal information.
 Display user-specific posts and activity.
--**Search and Filter:**
+
+- **Search and Filter:**
 
 Search bar to find posts by keywords.
 Filter posts by category or date.
--**Social Sharing:**
+
+- **Social Sharing:**
 
 Share posts on social media platforms.
 Integration with popular networks.
--**Admin Dashboard:**
+
+- **Admin Dashboard:**
 
 Manage users and content.
 Analyze site activity and statistics.
