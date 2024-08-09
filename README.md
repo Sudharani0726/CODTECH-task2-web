@@ -1,29 +1,59 @@
-Name: HIMAJA K
+Name:K.sudha
 Company: CODETECH IT SOLUTIONS
-ID: CT6WDS858
-Duration: 1st July 2024, 6:00 PM
+ID: CT6WDS887
+Duration: 5th July 2024, 6:00 PM
 Mentor: SANTOSH KUMAR
 Project Overview
-Project: Linear regression on California Housing dataset.
+Project: CREATE A BLOGGING PLATFORM
 
-Objective: Linear regression to predict housing prices based on features like square footage, number of bedrooms, and location. Use the California Housing dataset for training and evaluation.
+Objective: To develop a dynamic, responsive blog website where users can sign up, log in, create, edit, and delete blog posts. The website will include features such as user authentication, comment sections, and responsive design to ensure optimal viewing on various devices.
+Features:
 
-Key Activities
-Data Loading and Exploration:
+User Authentication:
 
-Import necessary libraries.
-Data Preprocessing:
+Sign up, log in, and log out functionalities for users.
+Secure password storage and authentication.
+Blog Management:
 
-Split the data into features (X) and target variable (y).
-Divide the dataset into training and test sets.
-Model Evaluation:
+Create, edit, delete, and view blog posts.
+Rich text editor for creating posts.
+Comment Section:
 
-Make predictions on the test set.
+Add, view, and delete comments on blog posts.
+Nested comments for interactive discussions.
+Responsive Design:
+
+Mobile-friendly layout.
+Consistent user experience across devices.
+User Profiles:
+
+View and edit personal information.
+Display user-specific posts and activity.
+Search and Filter:
+
+Search bar to find posts by keywords.
+Filter posts by category or date.
+Social Sharing:
+
+Share posts on social media platforms.
+Integration with popular networks.
+Admin Dashboard:
+
+Manage users and content.
+Analyze site activity and statistics.
+
 Technologies Used
-Python: The primary programming language used for data analysis, machine learning, and model implementation.
-Pandas: Library for data manipulation and analysis. It provides data structures and functions needed to manipulate structured data seamlessly.
-NumPy: Library for numerical operations, providing support for large, multi-dimensional arrays and matrices.
-Matplotlib: Plotting library for creating static, interactive, and animated visualizations in Python.
-Seaborn: Statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-Scikit-learn: Machine learning library that provides simple and efficient tools for data mining and data analysis. It includes modules for data loading, preprocessing, model selection, training, and evaluation.
-output
+HTML:
+
+Structure and layout of the website pages.
+CSS:
+
+Styling and responsive design for an attractive and adaptable user interface.
+Libraries like Bootstrap or Tailwind CSS can be used for easier responsive design.
+JavaScript:
+
+Handling client-side interactivity and dynamic content.
+
+output:
+![Screenshot (3)](https://github.com/user-attachments/assets/de8e52ad-817a-411f-8535-be893b1c0560)
+
